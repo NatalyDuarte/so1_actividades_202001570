@@ -1,8 +1,8 @@
-Ingenieria en Ciencias y Sistemas 
-Sistemas Operativos 1 
-Catedratico: Jesús Alberto Guzmán Polanco
-**Nombre:** Nataly Saraí Guzmán Duarte
-**Carnet:** 202001570
+Ingenieria en Ciencias y Sistemas  
+Sistemas Operativos 1  
+Catedratico: Jesús Alberto Guzmán Polanco  
+**Nombre:** Nataly Saraí Guzmán Duarte  
+**Carnet:** 202001570  
 
 # Activiad 1 
 
@@ -41,10 +41,9 @@ Un kernel en tiempo real es un tipo de núcleo de sistema operativo diseñado pa
 Los kerneles en tiempo real se utilizan en sistemas que requieren un procesamiento de datos en tiempo real,  como sistemas de control industrial, sistemas de seguridad y sistemas de comunicación.
 
 Algunas características son :
-
-    -Preemptividad: el kernel puede interrumpir una tarea en ejecución para dar prioridad a otra tarea que   tenga un plazo más estricto.
-    -Planificación por prioridades: las tareas se planifican en función de su prioridad, con las tareas de  mayor prioridad que se ejecutan antes que las tareas de menor prioridad.
-    -Sincronización de tareas: el kernel proporciona mecanismos para sincronizar las tareas entre sí, para   garantizar que las tareas no se ejecuten en conflicto entre sí.
+Preemptividad: el kernel puede interrumpir una tarea en ejecución para dar prioridad a otra tarea que   tenga un plazo más estricto.
+Planificación por prioridades: las tareas se planifican en función de su prioridad, con las tareas de  mayor prioridad que se ejecutan antes que las tareas de menor prioridad.
+Sincronización de tareas: el kernel proporciona mecanismos para sincronizar las tareas entre sí, para   garantizar que las tareas no se ejecuten en conflicto entre sí.
 
 ## User vs Kernel Mode 
 Son dos modos distintos en los que se pueden ejecutar programas en un sistema operativo. Estos modos están   diseñados para proporcionar diferentes niveles de privilegios y control sobre el hardware del sistema.
