@@ -8,13 +8,15 @@ Catedratico: Jesús Alberto Guzmán Polanco
 
 ## Crear un systemd unit
 ### Creacion del script 
-Se creo un script dandole una funcionalidad al servicio y se le otorgan los permisos al archivo, el archivo se llama actividad3.sh
+Se creo un script dandole una funcionalidad al servicio y se le otorgan los permisos al archivo, el archivo se llama actividad3.sh  
+
 ![Captura de pantalla de 2024-02-25 03-56-20](https://github.com/NatalyDuarte/so1_actividades_202001570/assets/82484670/4c2bd0f4-3c70-4300-b66a-05d1a99188b4)
 
 
 ### Crear archivo systemd unit 
 Se crea un archivo de systemd unit en la carpeta /etc/systemd/system/, el archivo se llama saludo.service
-![Captura de pantalla de 2024-02-25 03-58-51](https://github.com/NatalyDuarte/so1_actividades_202001570/assets/82484670/5ab69f3f-7942-47b3-bfec-eec54a6ccb68)
+![Captura de pantalla de 2024-02-25 04-05-44](https://github.com/NatalyDuarte/so1_actividades_202001570/assets/82484670/1e8764c2-81b3-4db3-82a7-48b7898fb242)
+
 
 Lo creamos con el comando 
 ![Captura de pantalla de 2024-02-25 03-59-48](https://github.com/NatalyDuarte/so1_actividades_202001570/assets/82484670/78e52d5e-6ccf-4a5b-80a1-89d6d6f7de63)
