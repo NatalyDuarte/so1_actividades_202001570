@@ -26,7 +26,10 @@ EL primer proceso hijo imprime su propio PID, crea un hilo usando la funcion pth
 
 El segundo proceso hijo imprime su propio PID, y termina usando la funcion exit(0).
 
-El hilo imprime el mensaje de hilo y termina.
+El hilo imprime el mensaje de hilo y termina.  
+
+![Captura de pantalla de 2024-03-10 21-01-37](https://github.com/NatalyDuarte/so1_actividades_202001570/assets/82484670/de74d11d-41d0-4dbe-8017-3a1d15bf6de1)
+
 
 
 
